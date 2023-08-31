@@ -235,3 +235,10 @@ body{
     bottom: 50%;
     border-radius: 50%;
 }
+
+/* reponsive */
+@media(max-width: 767px) {
+    .progress-bar{
+        width: 340px;
+    }
+}
